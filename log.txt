@@ -1,3 +1,2 @@
 toto
-LINE 000
 TITI
